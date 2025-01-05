@@ -9,7 +9,6 @@
 🔥免root实现 Android 改机（一键新机），微信双开、无限多开等功能、支持xposed模块。
 
 ## 交流 欢迎star，欢迎Fork
-- QQ 大学生实习群 群号:794834282
 
 ## 支持
 暂不考虑4x，目前已兼容 5.0 ～ 12.0并跟进后续新系统。
@@ -53,7 +52,6 @@ ___
 
 ### 公共场所、禁止吸烟。
 
-# 欢迎关注公众号，后续文章的更新和技术的讲解都会发布在公众号里。 
 
 
 ![avatar](https://github.com/Pangu-Immortal/Pangu-Immortal/blob/main/qrcode_for_gh_5d1938320a76_344.jpg)
